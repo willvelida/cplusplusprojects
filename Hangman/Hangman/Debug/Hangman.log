@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\will\documents\game dev learning\c++ beginners\hangman\hangman\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\Will\Documents\Game Dev Learning\C++ Beginners\Hangman\Debug\Hangman.exe
+  Hangman.vcxproj -> C:\Users\Will\Documents\Game Dev Learning\C++ Beginners\Hangman\Debug\Hangman.pdb (Full PDB)
